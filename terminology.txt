@@ -1,24 +1,32 @@
-Scrum
-Definitive    καθοριστικός
-Scrum Guide   Οδηγός του Scrum
-framework     πλαίσιο
-roles         ρόλοι
-events        συμβάντα
-artifacts     συστατικά στοιχεία
-rules         κανόνες
-framework     εργασιακό πλαίσιο
-process       διαδικασία
-lightweight   ελαφρύ
-empiricism    εμπειρισμός
-transparency  διαφάνεια
-inspection    επιθεώρηση
-adaptation    προσαρμογή
-"done"        "έτοιμο"
-sprint
-goal          στόχος
-planning      σχεδιασμός
-daily         καθημερινό
-review        αναθεώρηση
-retrospective ανασκόπηση
-product owner ιδιοκτήτη του προϊόντος
-master        δάσκαλος
+"done"					"έτοιμο"
+Definitive    			καθοριστικός
+Scrum		  			Scrum
+Scrum Guide   			Οδηγός του Scrum
+adaptation    			προσαρμογή
+artifacts     			συστατικά στοιχεία
+cross-functional 		δια-λειτουργική
+daily         			καθημερινό
+empiricism    			εμπειρισμός
+events        			συμβάντα
+framework     			πλαίσιο
+framework     			εργασιακό πλαίσιο
+goal          			στόχος
+increment     			επαύξηση
+inspection    			επιθεώρηση
+lightweight   			ελαφρύ
+master        			δάσκαλος
+planning      			σχεδιασμός
+process       			διαδικασία
+product backlog item 	στοιχείο του product backlog 
+product backlog 		product backlog
+product owner 			ιδιοκτήτη του προϊόντος (Product Owner)
+releasable 	  			παραδοτέο
+retrospective 			ανασκόπηση
+review        			αναθεώρηση
+roles         			ρόλοι
+rules         			κανόνες
+scope 		  			έργο
+self-organization 		αυτο-οργάνωση
+sprint		  			sprint
+time-boxed 				χρονο-περιορισμένο
+transparency  			διαφάνεια
